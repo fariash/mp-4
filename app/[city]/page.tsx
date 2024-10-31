@@ -11,7 +11,7 @@ const WeatherContentWrapper = styled.div`
     background-color: pink;
     padding: 40px;
     border-radius: 10px;
-=
+
 `
 
 const CityName = styled.h1`

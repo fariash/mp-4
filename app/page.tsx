@@ -8,6 +8,8 @@ const StyledDiv = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: pink;
+  border: black 3px solid;
 `;
 
 export default function Home() {
